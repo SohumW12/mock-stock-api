@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "randomstring": "^1.2.2",
+    "stock-info": "^1.6.2",
+    "stock-ticker-symbol": "^1.1.0"
+  }
+}
